@@ -3,7 +3,6 @@
 #include <stdlib.h>
 #include <string.h>
 
-// emcc Teste2.c CSVParser.c -lnoderawfs.js -lnodefs.js
 struct Dados {
   int numCasos;
   int numMortes;
